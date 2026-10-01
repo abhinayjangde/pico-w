@@ -19,6 +19,6 @@ while True:
     # time.sleep(1)
     # led.on()
     # time.sleep(0.1)
-    time.sleep(.5)
+    time.sleep(1)
 
 
