@@ -7,4 +7,4 @@ led = Pin(13, Pin.OUT)
 # Blink loop using toggle
 while True:
     led.toggle()  # Switches the state automatically
-    time.sleep(0.2)
+    time.sleep(1)  # Wait for 1 second
